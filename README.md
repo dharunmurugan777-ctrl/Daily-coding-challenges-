@@ -24,11 +24,13 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
+| [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
