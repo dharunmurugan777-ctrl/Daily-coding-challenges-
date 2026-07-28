@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
+| [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,4 +37,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
+| [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
