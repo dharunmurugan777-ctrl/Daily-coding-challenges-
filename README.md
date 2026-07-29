@@ -9,6 +9,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
 ## Recursion
@@ -48,5 +49,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
