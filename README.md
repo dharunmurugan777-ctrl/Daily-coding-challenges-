@@ -9,6 +9,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
