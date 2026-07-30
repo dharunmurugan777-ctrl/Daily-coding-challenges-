@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
