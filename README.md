@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
+| [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
+| [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,10 +45,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
+| [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
 ## String
 |  |
