@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
 ## Dynamic Programming
 |  |
@@ -60,5 +61,10 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
