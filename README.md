@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
