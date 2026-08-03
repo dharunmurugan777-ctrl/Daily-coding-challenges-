@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Two Pointers
@@ -61,6 +63,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 ## Hash Table
