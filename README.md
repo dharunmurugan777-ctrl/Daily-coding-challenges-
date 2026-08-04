@@ -45,6 +45,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
