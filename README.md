@@ -61,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0290-word-pattern) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
 ## Sliding Window
 |  |
