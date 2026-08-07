@@ -9,6 +9,7 @@
 | [0367-valid-perfect-square](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@
 | [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
