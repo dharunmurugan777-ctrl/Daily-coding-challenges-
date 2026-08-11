@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0504-base-7) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
@@ -68,6 +69,7 @@
 | [0290-word-pattern](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
+| [0504-base-7](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0504-base-7) |
 ## Divide and Conquer
 |  |
 | ------- |
