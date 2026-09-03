@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
@@ -103,4 +105,12 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
