@@ -19,6 +19,7 @@
 | [0190-reverse-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -36,6 +37,7 @@
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
+| [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +95,12 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0367-valid-perfect-square) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
