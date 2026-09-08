@@ -41,6 +41,7 @@
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
