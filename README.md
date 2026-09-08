@@ -40,6 +40,7 @@
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0075-sort-colors](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0217-contains-duplicate) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0290-word-pattern) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
