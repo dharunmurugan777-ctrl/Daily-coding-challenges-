@@ -39,6 +39,7 @@
 | [0219-contains-duplicate-ii](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1929-concatenation-of-array) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dharunmurugan777-ctrl/Daily-coding-challenges-/tree/master/1323-maximum-69-number) |
 ## String
